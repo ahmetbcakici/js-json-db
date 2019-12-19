@@ -6,7 +6,7 @@ JsonDB is a small and open source project which is usable for JS developers. You
 
 ## Installation
 
-`npm i -g js-json-db
+`npm i -g js-json-db`
 
 ## Require
 
