@@ -1,6 +1,6 @@
 {
   "name": "js-json-db",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JsonDB is a small and open source project which is usable for JS developers. You can stay your DB in a json file easily with this package.",
   "main": "jsonDB.js",
   "scripts": {
