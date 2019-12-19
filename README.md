@@ -6,7 +6,7 @@ JsonDB is a small and open source project which is usable for JS developers. You
 
 ## Installation
 
-`npm i js-json-db
+`npm i -g js-json-db
 
 ## Require
 
@@ -51,7 +51,7 @@ You can specify column names in quotes as second parameter.
 ### Insert
 
 ```coffeescript
-//jDB.generatejDB("sample_db");
+#jDB.generatejDB("sample_db");
 jDB.usejDB("sample_db");
 
 jDB.newTABLE("student",["student_no","student_name","student_department"]);

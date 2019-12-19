@@ -1,0 +1,25 @@
+{
+  "name": "js-json-db",
+  "version": "1.0.0",
+  "description": "JsonDB is a small and open source project which is usable for JS developers. You can stay your DB in a json file easily with this package.",
+  "main": "jsonDB.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmetbcakici/js-json-db.git"
+  },
+  "keywords": [
+    "js-json-db",
+    "js-db",
+    "json-db",
+    "json-database"
+  ],
+  "author": "Ahmet Buğra Çakıcı",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmetbcakici/js-json-db/issues"
+  },
+  "homepage": "https://github.com/ahmetbcakici/js-json-db#readme"
+}
