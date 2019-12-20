@@ -11,7 +11,7 @@ JsonDB is a small and open source project which is usable for JS developers. You
 ## Require
 
 ```coffeescript
-const JsonDB = require("jsondb");
+const JsonDB = require("js-json-db");
 const jDB = new JsonDB();
 ```
 
@@ -22,7 +22,7 @@ Now you can access package's functions but firstly you should generate a db and 
 ### Generate Database
 
 ```coffeescript
-const JsonDB = require("jsondb");
+const JsonDB = require("js-json-db");
 const jDB = new JsonDB();
 
 jDB.generatejDB("sample_db");
