@@ -151,7 +151,3 @@ module.exports = class jsonDB {
             });
         }
     }
-    //eklenebielcekler : AUTO INCREMENT - MULTIPLE INSERT - BACKUP SYSTEM - ADVANCED FILTER QUERIES LIKE OR OPERATÖRLER > < != 
-
-//uyarılar : databaseinizin açıkken işlem yapmayın
-//geneate db te başına kullanılacak yoksa hata alırsınız
