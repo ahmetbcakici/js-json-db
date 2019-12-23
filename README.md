@@ -1,6 +1,6 @@
 # About Package
 
-JsonDB is a small and open source project which is usable for JS developers. You can stay your DB in a json file easily with this package.
+JsonDB is a small and open source project which is usable for JS developers. You can store your DB in a json file easily with this package.
 
 # Usage
 
