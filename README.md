@@ -34,14 +34,14 @@ We have a database anymore! We also should generate tables in this database. But
 
 ```coffeescript
 jDB.usejDB("sample_db");
-jDB.newTABLE("table_name",["column1","column2"...]);
+jDB.newTable("table_name",["column1","column2"...]);
 ```
 
 ### Drop Table
 
 ```coffeescript
 jDB.usejDB("sample_db");
-jDB.dropTABLE("table_name");
+jDB.dropTable("table_name");
 ```
 
 You can specify column names in quotes as second parameter.
@@ -54,7 +54,7 @@ You can specify column names in quotes as second parameter.
 #jDB.generatejDB("sample_db");
 jDB.usejDB("sample_db");
 
-jDB.newTABLE("student",["student_no","student_name","student_department"]);
+jDB.newTable("student",["student_no","student_name","student_department"]);
 jDB.insert("student",[1,"John","Computer Science Department"]);
 ```
 
